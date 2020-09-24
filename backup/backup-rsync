@@ -5,6 +5,7 @@
 # This script uses the following tools :
 #  * rsync
 #
+#
 # Parameters :
 #  $1 - rsync backup description file
 #  $2 - backup log
